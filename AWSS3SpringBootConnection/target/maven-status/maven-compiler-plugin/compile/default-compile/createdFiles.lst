@@ -1,0 +1,4 @@
+com\integration\springboot\s3\AWSS3SpringBootConnection\service\S3Service.class
+com\integration\springboot\s3\AWSS3SpringBootConnection\Awss3SpringBootConnectionApplication.class
+com\integration\springboot\s3\AWSS3SpringBootConnection\config\S3Config.class
+com\integration\springboot\s3\AWSS3SpringBootConnection\controller\S3Controller.class
